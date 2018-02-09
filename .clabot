@@ -1,0 +1,11 @@
+{
+  "contributors": [
+    "pdezwart",
+    "dchangRP",
+    "snapwich",
+    "djsu",
+    "bretg",
+    "mkendall07"
+  ],
+  "message": "Thank you for contributing to Prebid.org! We require contributors to sign our Contributor License Agreement, and we do not have {{usersWithoutCLA}} on file. In order for us to review and merge your code, please complete the following form: https://goo.gl/A1oZcx  Please note that if you are doing this as part of your day job, your legal counsel will likely need to weigh in. If you company is already a member of Prebid.org, your company has already signed a Corporate Contributor License Agreement."
+}
